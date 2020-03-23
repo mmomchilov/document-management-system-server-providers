@@ -1,0 +1,72 @@
+﻿To: tom@example.com, bob@testdomain.com
+From: Dev <dev@mail.localhost.com>
+Subject: Hello World
+Message-ID: <c6a46bd9-365f-07b1-ca17-71f9f46d2924@mail.localhost.com>
+Date: Thu, 16 Aug 2018 13:28:59 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101
+ Thunderbird/52.9.1
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------8CC22DEC4127B657B89EAF24"
+Content-Language: en-GB
+
+This is a multi-part message in MIME format.
+--------------8CC22DEC4127B657B89EAF24
+Content-Type: multipart/alternative;
+ boundary="------------DC61377482B15F54608B6F57"
+
+
+--------------DC61377482B15F54608B6F57
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+*Hello World :-)*
+
+--------------DC61377482B15F54608B6F57
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <font color="#ff0000"><b>Hello World <span class="moz-smiley-s1"><span>:-)</span></span></b></font><br>
+  </body>
+</html>
+
+--------------DC61377482B15F54608B6F57
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+*Hello World :-)*
+
+--------------DC61377482B15F54608B6F57
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <font color="#ff0000"><b>Hello World <span class="moz-smiley-s1"><span>:-)</span></span></b></font><br>
+  </body>
+</html>
+
+--------------DC61377482B15F54608B6F57--
+
+--------------8CC22DEC4127B657B89EAF24
+Content-Type: image/png;
+ name="Clean.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="Clean.png"
+
+iVBORw0KGgoAAAANSUhEUgAAAAsAAAALBAMAAABbgmoVAAAAGFBMVEX///8AUq0AY8Y5nP+M
+jIyUzv/W7////87upOv2AAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIA
+AAsSAdLdfvwAAAAHdElNRQfTAQICGAfQ7PyOAAAANElEQVR42mNggAJGQUEQJSgoKADiKCkp
+AimhEqVAEOVoDKaUTUGUknIYUI5BKDRIAKEPDAC1oAUVPU2kXQAAAABJRU5ErkJggg==
+--------------8CC22DEC4127B657B89EAF24--

@@ -1,0 +1,39 @@
+﻿Received: from [IPv6:::1] ([::1]) by eval.gwrelay.co.uk with MailEnable ESMTP; Thu, 29 Oct 2015 13:10:45 +0000
+Content-Type: application/pkcs7-mime; name="smime.p7m"; smime-type=enveloped-data
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7m"
+Content-Description: S/MIME Encrypted Message
+Received: from [127.0.0.1] ([::ffff:127.0.0.1]:51685)
+        by gw-evaluation. (100.86.202.139) with Glasswall Inbound SMTP
+        Agent (1.26.19.0) id (smtp-agent-1) ; Thu, 29 Oct 2015 13:10:40 +0000
+To: test.user.1@eval.gwrelay.co.uk
+From: "test.user.2" <test.user.2@eval.gwrelay.co.uk>
+Subject: Encrypted Message
+Message-ID: <56321ACF.1020405@eval.gwrelay.co.uk-0>
+Date: Thu, 29 Oct 2015 13:10:39 +0000
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101
+Thunderbird/38.3.0
+MIME-Version: 1.0
+Return-Path: <test.user.2@eval.gwrelay.co.uk>
+
+MIAGCSqGSIb3DQEHA6CAMIACAQAxggOcMIIBygIBADCBsTCBmzELMAkGA1UEBhMCR0IxGzAZ
+BgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UEBxMHU2FsZm9yZDEaMBgGA1UEChMR
+Q09NT0RPIENBIExpbWl0ZWQxQTA/BgNVBAMTOENPTU9ETyBTSEEtMjU2IENsaWVudCBBdXRo
+ZW50aWNhdGlvbiBhbmQgU2VjdXJlIEVtYWlsIENBAhEAtWJAjS6R+5Z/HijQ1oUjODANBgkq
+hkiG9w0BAQEFAASCAQBz3b1OazkBDNqGItL1Y+Rugp18aZm3GK8W5Iz19V1WwFYtixUxB54D
+fUxps/ZxiKhrRR+rN5cqAUxgPKQxIrnZ1boS6rfoVwvSudN6l/P/x/kNebJSEft6MoL8gulv
+lszz4VZ8c3Q6T25mx96V25Pgee1IPaqFZe9lcE0RrLcU2gNDqJZM9TpIaNIehnhuxdCC8YIL
+/FKzbzKf736VOHixncXvlH8aSkCd0Dk3OI8vCK+GH2E4IP40H+YZN94Vlyft3A+WrWFbJX5H
+ZoXnnQX/KfwnbmoIdlE3CfMzXs6ExLgr6JcN4oFn1OlyGCFmPPpdJOZw/zDM9pS8qiohFSjq
+MIIBygIBADCBsTCBmzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3Rl
+cjEQMA4GA1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxQTA/BgNV
+BAMTOENPTU9ETyBTSEEtMjU2IENsaWVudCBBdXRoZW50aWNhdGlvbiBhbmQgU2VjdXJlIEVt
+YWlsIENBAhEA4vw6jMQxOzA4L+mRuZe6ZjANBgkqhkiG9w0BAQEFAASCAQBlooynzwc37VIv
+GmGhjQQynFGKf7CUairyE9CIFWpnxe/Fw/N3heeRm1zeFB2usrTbviZJo6RAylvHIw8Y/rt4
+we23rW0Tad0Hz4PQE+V++MuXq5l0oopqBz1gWvlypFzc8erLl2bYmG3mw6GF062IXl4vYu8H
+l1IpkJGDOubpPHG6aCL2MS015zGivbBSzr0bgJmX7i5+b8Z1JH71Z/TQr4QM9GoTYwnieehd
+V6LKaT1bPQ8VrFBKDCiIIKlNFeRIKp737rIcD/eTUj46dyHefCpf9j3Ka74SQBygVYIas0eJ
+ur2ZGpUvh3jW6fKldptx25o+n9R++RptHThO4SsqMIAGCSqGSIb3DQEHATAUBggqhkiG9w0D
+BwQIReDcnrGFjq2ggAR4F3MONlBQ4bY4Jsl2FDrfSOcaReOUSR90e4I1lsBbpU4DfoTemd3L
+2Gh769x0ZXoHm2DUfuckwF0KiMI//bAA9bGd2mgEizecy8+571YOMCffyksUv+ZFm6bZqhn0
+KaMTuZvHGX0s1sI5CbnSeoetRS9pPf2ifHtFBAhu4rrqxws+6gAAAAAAAAAAAAA=

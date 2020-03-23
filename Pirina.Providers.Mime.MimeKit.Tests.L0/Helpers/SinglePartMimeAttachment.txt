@@ -1,0 +1,19 @@
+﻿To: tom@example.com, bob@testdomain.com
+From: Dev <dev@mail.localhost.com>
+Subject: Hello World
+Message-ID: <c6a46bd9-365f-07b1-ca17-71f9f46d2924@mail.localhost.com>
+Date: Thu, 16 Aug 2018 13:28:59 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101
+ Thunderbird/52.9.1
+MIME-Version: 1.0
+Content-Type: image/png;
+ name="Clean.png"
+Content-Language: en-GB
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="Clean.png"
+
+iVBORw0KGgoAAAANSUhEUgAAAAsAAAALBAMAAABbgmoVAAAAGFBMVEX///8AUq0AY8Y5nP+M
+jIyUzv/W7////87upOv2AAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIA
+AAsSAdLdfvwAAAAHdElNRQfTAQICGAfQ7PyOAAAANElEQVR42mNggAJGQUEQJSgoKADiKCkp
+AimhEqVAEOVoDKaUTUGUknIYUI5BKDRIAKEPDAC1oAUVPU2kXQAAAABJRU5ErkJggg==

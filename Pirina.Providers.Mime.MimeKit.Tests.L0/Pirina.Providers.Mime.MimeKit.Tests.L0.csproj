@@ -1,0 +1,69 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Helpers\AttachmentWithinAlternative.txt" />
+    <None Remove="Helpers\BodyPartInAlternativeAndMixed.txt" />
+    <None Remove="Helpers\EncryptedMessage.txt" />
+    <None Remove="Helpers\HeadersOnly.txt" />
+    <None Remove="Helpers\InlineAttachmentWithinAlternative.txt" />
+    <None Remove="Helpers\MultiPartAlternativeWithBlankBodies.txt" />
+    <None Remove="Helpers\MultiPartAlternativeWithEmptyBodies.txt" />
+    <None Remove="Helpers\MultiPartAttachmentOnlyMessage.txt" />
+    <None Remove="Helpers\MultiPartMessage.txt" />
+    <None Remove="Helpers\MultiPartMessageNoAlternative.txt" />
+    <None Remove="Helpers\MultiPartMessageRelated.txt" />
+    <None Remove="Helpers\MultiPartMixedWithinMultiPartRelated.txt" />
+    <None Remove="Helpers\MultipleBodyPartsInAlternative.txt" />
+    <None Remove="Helpers\MultipleBodyPartsInMixed.txt" />
+    <None Remove="Helpers\SinglePartMimeAttachment.txt" />
+    <None Remove="Helpers\SinglePartMimeHtml.txt" />
+    <None Remove="Helpers\SinglePartMimeText.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Helpers\InlineAttachmentWithinAlternative.txt" />
+    <EmbeddedResource Include="Helpers\AttachmentWithinAlternative.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartAlternativeWithBlankBodies.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartAlternativeWithEmptyBodies.txt" />
+    <EmbeddedResource Include="Helpers\MultipleBodyPartsInMixed.txt" />
+    <EmbeddedResource Include="Helpers\MultipleBodyPartsInAlternative.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartMixedWithinMultiPartRelated.txt" />
+    <EmbeddedResource Include="Helpers\HeadersOnly.txt" />
+    <EmbeddedResource Include="Helpers\BodyPartInAlternativeAndMixed.txt" />
+    <EmbeddedResource Include="Helpers\EncryptedMessage.txt" />
+    <EmbeddedResource Include="Helpers\SinglePartMimeText.txt" />
+    <EmbeddedResource Include="Helpers\SinglePartMimeHtml.txt" />
+    <EmbeddedResource Include="Helpers\SinglePartMimeAttachment.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartAttachmentOnlyMessage.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartMessageRelated.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartMessageNoAlternative.txt" />
+    <EmbeddedResource Include="Helpers\MultiPartMessage.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+    <PackageReference Include="Moq" Version="4.9.0" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\..\..\..\..\Users\jhumphries\.nuget\packages\moq\4.9.0\lib\netstandard1.3\Moq.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
